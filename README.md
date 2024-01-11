@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sarun Chuttakula</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
 
-<p align="left"> <img src="assets/jWyxUfoGbP.gif" alt="sarun6618" style="max-width:100%;" width="500" height="320"> </p>
+<p align="left"> <img src="assets/jWyxUfoGbP.gif" alt="sarun6618" style="max-width:50%;" width="50" height="50"> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarun6618" alt="sarun6618" /></a> </p> -->
 

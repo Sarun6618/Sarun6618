@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://lottiefiles.com/animations/hacker-34K04dwv4o)]
+[![MasterHead](assets/jWyxUfoGbP.gif)]
 
 <h1 align="center">Hi 👋, I'm Sarun Chuttakula</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>

@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](assets/jWyxUfoGbP.gif)]
+<!-- [![MasterHead](assets/jWyxUfoGbP.gif)] -->
 
 <h1 align="center">Hi 👋, I'm Sarun Chuttakula</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
 
-<p align="left"> <img src="https://lottiefiles.com/animations/hacker-34K04dwv4o" alt="sarun6618" /> </p>
+<p align="left"> <img src="assets/jWyxUfoGbP.gif" alt="sarun6618" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarun6618" alt="sarun6618" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarun6618" alt="sarun6618" /></a> </p> -->
 
 - 🔭 I’m currently working on **Signal**
 
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sarun0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarun0904" height="30" width="40" /></a>
+<a href="https://dev.to/sarun0904" target="blank">
+<!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarun0904" height="30" width="40" /></a> -->
 <a href="https://twitter.com/sarun0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarun0904" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarun0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarun0904" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21207990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21207990" height="30" width="40" /></a>

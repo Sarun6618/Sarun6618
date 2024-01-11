@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Sarun6618/Sarun6618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![MasterHead](https://lottiefiles.com/animations/hacker-34K04dwv4o)]
+
 <h1 align="center">Hi 👋, I'm Sarun Chuttakula</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
 

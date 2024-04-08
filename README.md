@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarun6618" alt="sarun6618" /></a> </p> -->
 
-- 🔭 I’m currently working on **Signal**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 🤝 I’m looking for help with **In-App Auto-renewals**
+- 🔭 I’m currently working on **Signalz.ai**
 
 - 📫 How to reach me **ch.sarun0904@gmail.com**
 

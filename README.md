@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Typescript,typeorm,mysql**
-
 - 📫 How to reach me **sarun.chuttakula@gmail.com**
 
 - 📄 Know about my experiences [https://sarun-chuttakula.tiiny.site](https://sarun-chuttakula.tiiny.site)

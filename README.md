@@ -122,6 +122,7 @@ I am a Software Engineer dedicated to creating outstanding and extensible soluti
   </a>
 </p>
 
+<div style="text-align: center;">
 <h3 align="left">Google Cloud Badges:</h3>
 <p align="left">
   <!-- Arcade Badges with Fixed Size -->
@@ -164,4 +165,4 @@ I am a Software Engineer dedicated to creating outstanding and extensible soluti
     <img src="https://cdn.qwiklabs.com/KJbv0GOIxc4Ze8p7LH1Ke4TeOMBGPqAus29iGiFw5po%3D" alt="Badge for Introduction to Generative AI" style="width: 240px; height: 160px; margin: 5px;"/>
   </a>
 </p>
-
+</div>
